@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu-config xmlns="http://jmix.io/schema/flowui/menu">
+
+    <menu id="application" title="msg://com.company.fullstackapplfromgit/menu.application.title" opened="true">
+        <item view="User.list" title="msg://com.company.fullstackapplfromgit.view.user/UserListView.title"/>
+        <item view="NewEntity3.list"
+              title="msg://com.company.fullstackapplfromgit.view.newentity3/newEntity3ListView.title"/>
+    </menu>
+
+</menu-config>
